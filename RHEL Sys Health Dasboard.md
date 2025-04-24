@@ -10,7 +10,6 @@ while true; do
   echo "Time       : $(date)"
   echo "Hostname   : $(hostname)"
   echo "Uptime     : $(uptime -p)"
-  echo "Kernel     : $(uname -r)"
   echo "----------------------------------------------------------------------"
   
   echo " CPU Load :"
